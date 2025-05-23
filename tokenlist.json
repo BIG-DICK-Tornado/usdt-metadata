@@ -1,0 +1,18 @@
+{
+  "name": "Educational USDT",
+  "tokens": [
+    {
+      "chainId": 56, // BSC Mainnet
+      "address": "YOUR_MAINNET_CONTRACT_ADDRESS", // Update after deploy
+      "symbol": "USDT",
+      "name": "Tether USD (EDUCATIONAL)",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/BIG-DICK-Tornado/usdt-metadata/main/usdt-logo.png",
+      "extensions": {
+        "website": "https://crypto-quest-usdt-2k9fa8ggg.vercel.app/",
+        "peg": "USD",
+        "rate": 1.0
+      }
+    }
+  ]
+}
